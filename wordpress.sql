@@ -1571,7 +1571,7 @@ INSERT INTO `wp_users` (`ID`, `user_login`, `user_pass`, `user_nicename`, `user_
 (1, 'tanagojin', '$P$BI8R3h8cN..3ciX2dGU.8Pdbx9/cn2.', 'tanagojin', 'tanagojin@au.com', '', '2018-06-21 04:38:33', '', 0, 'tanagojin'),
 (2, 'miyamoto', '$P$BGHgHM0R9Xm9TKG0qeDgVRv9s56nWW.', 'miyamoto', 'masabsu331@gmail.com', '', '2018-06-21 06:18:22', '1529561904:$P$BlwiaVmXAQ9gpgEjH9vpDmVuJ2HkRv.', 0, '将利宮本'),
 (3, 'masatosi', '$P$B1Jf38WIDAdvSALFrpjyHm9GlGQVcS1', 'masatosi', 'miyamoto@yahoo.co.jp', '', '2018-06-25 06:54:56', '', 0, 'masatosim');
-
+(4, 'Akihiro_Goto', '$P$BYluuqfBoyJwPoyuvAam4/k.Arc/n0/', 'akihiro_goto', 'i14012@yuge.ac.jp', '', '2018-05-21 06:20:32', '', 0, 'Akihiro_Goto');
 --
 -- Indexes for dumped tables
 --
